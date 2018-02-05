@@ -10,7 +10,7 @@ George Washington, Abraham Lincoln, and Franklin Delano Roosevelt are considered
 
 # George Washington
 
-## Early Life
+### Early Life
 
 Washington's mother was Mary Ball and his father was Augustine Washington. They owned a plantation with slaves in Virginia. George studied at local schools in Fredericksburg, and was also homeschooled for part of his life. George's mother was unfit to care for him and his father died when he was 11 years old.
 
@@ -18,13 +18,13 @@ Washington became a farmer like his father. His plantation was called Mount Vern
 
 In 1759, Washington married a widow named Martha Custis. The marriage produced no children.
 
-## Pre-Presidential Career
+### Pre-Presidential Career
 
 Washington was a delegate to the First Continental Congress, which was created by the Thirteen Colonies to respond to various laws passed by the British government. The Second Continental Congress chose him to be the commanding general of the Continental Army. Washington led the army from 1775 until the end of the war in 1783. After losing the big Battle of Long Island, and being chased across New Jersey Washington led his troops back across the Delaware River on Christmas Day, 1776, in a surprise attack on Hessian mercenaries at the small Battle of Princeton and Trenton, New Jersey. The British had more troops and more supplies than Washington, however, Washington kept his troops together and won these small battles.
 
 Overall, Washington did not win many battles, but he never let the British destroy his army. With the help of the French army and navy, Washington made a British army surrender at Yorktown, Virginia, in 1781, in the final major battle of the war. The war officially ended with the Treaty of Paris in 1783.
 
-## Presidency
+### Presidency
 
 In 1789, Washington was elected president without any competition, making him the first President of the United States. While Washington did not belong to any political party, he agreed with certain Federalist policies, such as the country having a standing army and a national bank. He was re-elected to a second term. After his second term, Washington decided not to run for reelection, despite his popularity remaining high. His decision set a precedent that every president followed until Franklin D. Roosevelt in 1940.
 
