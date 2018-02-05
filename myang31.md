@@ -76,7 +76,7 @@ Roosevelt became active in politics in 1910 when he was elected to the New York 
 
 Franklin's wife Eleanor told her husband not to give up. So, despite his condition, he continued with both his law and political career. In 1929 he was elected Governor of New York and, after serving two terms as governor, he decided to run for president in the 1932 election.
 
-### Presidential Career
+### Presidency
 
 Roosevelt won the election against the unpopular incumbent (president at the time) Herbert Hoover and became president in early 1933.
 
