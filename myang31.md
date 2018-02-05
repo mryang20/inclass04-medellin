@@ -84,12 +84,8 @@ He started a series of popular programs known as the New Deal to fight against t
 
 In 1939, Roosevelt became the first President of the United States to appear on television. Roosevelt was elected a third term in 1940. He gave weapons and money to the Allies fighting in World War II as a part of the Lend-Lease program at this time, but the United States was still technically neutral in the war.
 
-On December 7, 1941, Japan launched its attack on the Pearl Harbor military base in Hawaii. On December 8, the United States Congress declared war on the Empire of Japan. It was formulated an hour after the famous Infamy Speech by Roosevelt. After the declaration, Japan's allies, Germany and Italy, declared war on the United States. This brought the United States fully into World War II on the side of the Allies, which were the Soviet Union and Great Britain.
+On December 7, 1941, Japan launched its attack on the Pearl Harbor military base in Hawaii. On December 8, the United States Congress declared war on the Empire of Japan. It was formulated an hour after the famous Infamy Speech by Roosevelt. After the declaration, Japan's allies, Germany and Italy, declared war on the United States. This brought the United States fully into World War II on the side of the Allies, which were the Soviet Union and Great Britain. One of the bad side effects was a sudden increased hostility against Japanese Americans. It caused Roosevelt to sign an order allowing Japanese Americans to be sent to internment camps against their will. 
 
-Although Roosevelt did a lot of good things in his presidency, he also had a bit of controversy. Roosevelt signed an order allowing Japanese Americans to be sent to internment camps against their will. 
-
-Towards the end of the war, Allied victory became assured, and Roosevelt started to think about a new world order. He started many projects, such as founding the United Nations and helping found the Bretton Woods system.
+After the Normandy Landings on June 6, 1944, Allied victory became assured, and Roosevelt started to think about a new world order. He started many projects, such as founding the United Nations and helping found the Bretton Woods system.
 
 While still president, he died of a stroke on April 12, 1945. Vice President Harry Truman became president. World War II would end four months later.
-
-For overcoming the difficult challenges of a depression and a world war, historians generally consider him to be one of the best U.S. presidents.
