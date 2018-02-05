@@ -1,10 +1,10 @@
 <h1> Board Games </h1>
 
+<hr />
+
 <u>Irfan Bashir</u>
 
 **<u>In Class Assignment 5</u>**
-
-<hr />
 
 <h2> Board Games: Intro </h2>
 
