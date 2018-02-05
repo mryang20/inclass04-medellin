@@ -1,6 +1,9 @@
 <h1> Board Games </h1>
 
 <hr />
+<u>Irfan Bashir</u>
+
+**<u>In Class Assignment 5</u>**
 
 A board game is a tabletop game that involves counters or pieces moved or placed on a pre-marked surface or "board", according to a set of rules. Some games are based on pure strategy, but many contain an element of chance; and some are purely chance, with no element of skill.
 
