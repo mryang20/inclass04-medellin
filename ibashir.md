@@ -17,7 +17,7 @@ here are many varieties of board games. Their representation of real-life situat
 The time required to learn to play or master a game varies greatly from game to game, but is not necessarily correlated with the number or complexity of rules; games like [chess](https://en.wikipedia.org/wiki/Chess) or [Go](https://en.wikipedia.org/wiki/Go_(board_game)) possess relatively simple [rulesets](https://en.wikipedia.org/wiki/Glossary_of_board_games#ruleset), but have great strategic depth.
 
 
-<h2> List of Three Famous Board Games: </h2>
+<h2> Three Famous Board Games: </h2>
 
 <h3> Board Game: Chess </h3>
 
