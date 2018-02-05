@@ -10,7 +10,7 @@ George Washington, Abraham Lincoln, and Franklin Delano Roosevelt are considered
 
 # George Washington
 
-![George Washington](https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)
+![George Washington](https://www.thefamouspeople.com/profiles/images/george-washington-39.jpg)
 
 ### Early Life
 
@@ -40,6 +40,8 @@ Washington went back home to Mount Vernon after his second term ended in 1797. H
 
 # Abraham Lincoln
 
+![Abraham Lincoln](https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg)
+
 ### Early Life
 
 Lincoln was born in Hodgenville, Kentucky on Feb 12, 1809. Raised by poor parents, he received less than a year of formal education by the time he reached the age of 21. His primary means of education was schooling at home, using borrowed books and the Bible.
@@ -67,6 +69,8 @@ Lincoln's Second Inaugural Address, delivered less than 6 weeks before his assas
 Lincoln was shot by John Wilkes Booth, a Confederate Spy, on April 14, 1865 and died the following day. Vice President Andrew Johnson became President. The Civil War ended three weeks later.
 
 # Franklin Delano Roosevelt
+
+![FDR}(http://encyclopedia.densho.org/front/media/cache/06/d2/06d2fc76ff6dff2831b59381e21ad732.jpg)
 
 ### Early Life
 
