@@ -10,7 +10,7 @@ George Washington, Abraham Lincoln, and Franklin Delano Roosevelt are considered
 
 # George Washington
 
-![George Washington](washington.jpg)
+![George Washington](https://github.com/mryang20/inclass04-medellin/blob/master/media/washington.jpg)
 
 ### Early Life
 
@@ -40,7 +40,7 @@ Washington went back home to Mount Vernon after his second term ended in 1797. H
 
 # Abraham Lincoln
 
-![Abraham Lincoln](lincoln.jpg)
+![Abraham Lincoln](https://github.com/mryang20/inclass04-medellin/blob/master/media/lincoln.jpg)
 
 ### Early Life
 
@@ -70,7 +70,7 @@ Lincoln was shot by John Wilkes Booth, a Confederate Spy, on April 14, 1865 and 
 
 # Franklin Delano Roosevelt
 
-![FDR](fdr.jpg)
+![FDR](https://github.com/mryang20/inclass04-medellin/blob/master/media/fdr.jpg)
 
 ### Early Life
 
