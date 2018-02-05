@@ -41,6 +41,12 @@ Chess strategy consists of setting and achieving long-term positioning advantage
 
 
 
+*Photo:*
+
+![Chess](media/chess.png)
+
+
+
 <h2> Board Game: Monopoly </h2>
 
 **About:**
@@ -67,6 +73,10 @@ A player is sent to jail for doing any of the following:
 
 According to Jim Slater in The Mayfair Set, the Orange property group is the best to own because players land on them more often, as a result of the Chance cards Go to Jail, Advance to St. Charles Place (Pall Mall), Advance to Reading Railroad (Kings Cross Station) and Go Back Three Spaces.[61] In all, during game play, Illinois Avenue (Trafalgar Square), New York Avenue (Vine Street), B&O Railroad (Fenchurch Street Station), and Reading Railroad (Kings Cross Station) are the most frequently landed-upon properties. Mediterranean Avenue (Old Kent Road), Baltic Avenue (Whitechapel Road), Park Place (Park Lane), and Oriental Avenue (The Angel Islington) are the least-landed-upon properties. Among the property groups, the Railroads are most frequently landed upon, as no other group has four properties; Orange has the next highest frequency, followed by Red. End game[edit] One common criticism of Monopoly is that although it has carefully defined termination conditions, it may take an unlimited amount of time to reach them. Edward P. Parker, a former president of Parker Brothers, is quoted as saying, "We always felt that forty-five minutes was about the right length for a game, but Monopoly could go on for hours. Also, a game was supposed to have a definite end somewhere. In Monopoly you kept going around and around." Hasbro states that the longest game of Monopoly ever played lasted 1,680 hours (70 days or 10 weeks or 2.3 months).
 
+*Photo:*
+
+![Monopoly](media/monopoly.png)
+
 
 
 <h2> Board Game: Snakes And Ladders </h2>
@@ -89,3 +99,4 @@ Any version of Snakes and Ladders can be represented exactly as an absorbing Mar
 
 *Photo:*
 
+![Snakes And Ladders](media/snakes.png)
