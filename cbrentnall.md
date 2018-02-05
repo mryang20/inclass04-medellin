@@ -36,7 +36,7 @@ As of 2017, the United States has 18 cities with at least 15 buildings over 400 
 
 ## New York City
 
-![Manhattan](media\nyc.jpeg "Manhattan")
+![Manhattan](media/nyc.jpeg "Manhattan")
 
 ### History
 
@@ -84,7 +84,7 @@ A second skyscraper boom began in the early 1960s. Since then, the city has seen
 
 ## Chicago
 
-![Chicago](media\chicago.jpg "Chicago")
+![Chicago](media/chicago.jpg "Chicago")
 
 ### History
 
@@ -132,7 +132,7 @@ Several new skyscrapers were constructed in the city throughout the 2000s, inclu
 
 ## Miami
 
-![Miami](media\miami.jpg "Miami")
+![Miami](media/miami.jpg "Miami")
 
 ### History
 
