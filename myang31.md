@@ -10,6 +10,8 @@ George Washington, Abraham Lincoln, and Franklin Delano Roosevelt are considered
 
 # George Washington
 
+![George Washington](https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)
+
 ### Early Life
 
 Washington's mother was Mary Ball and his father was Augustine Washington. They owned a plantation with slaves in Virginia. George studied at local schools in Fredericksburg, and was also homeschooled for part of his life. George's mother was unfit to care for him and his father died when he was 11 years old.
