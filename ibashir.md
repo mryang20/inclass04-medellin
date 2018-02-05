@@ -18,10 +18,6 @@ The time required to learn to play or master a game varies greatly from game to 
 
 
 
-<p>**<u>Following is a list of three popular Board Games:</u>**</P>
-
-
-
 <h2> Board Game: Chess </h2>
 
 **About:**
