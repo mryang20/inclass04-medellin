@@ -70,7 +70,7 @@ Lincoln was shot by John Wilkes Booth, a Confederate Spy, on April 14, 1865 and 
 
 # Franklin Delano Roosevelt
 
-![FDR}(http://encyclopedia.densho.org/front/media/cache/06/d2/06d2fc76ff6dff2831b59381e21ad732.jpg)
+![FDR](http://encyclopedia.densho.org/front/media/cache/06/d2/06d2fc76ff6dff2831b59381e21ad732.jpg)
 
 ### Early Life
 
