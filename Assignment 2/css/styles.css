@@ -1,1 +1,13 @@
-filler
+.container {
+	display: grid;
+	grid-template-rows: 40% 50%;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 1280px;
+}
+
+.slider {
+	grid-columns: 2;
+}
+
