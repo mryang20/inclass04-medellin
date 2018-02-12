@@ -41,10 +41,10 @@ figure {
     float: left;
     margin-left: 50px;
     margin-right: 50px;
-	
-   padding:1px;
+}
+   img { padding:1px;
    border:1px solid #021a40;
-   background-color:#ff0
+   background-color:#ff0;
 }
 .container {
 	display: grid;
