@@ -75,8 +75,8 @@ background-image: -webkit-linear-gradient(333deg, #000, #fff);
 
 section { 
     display: block;
-	padding-left: 30px;
-	padding-right: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
 	border: 10px;
 	position: relative;
 	width: 150%;
