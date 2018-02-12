@@ -37,15 +37,11 @@ a { color: #fff; text-decoration: none; }
 
 a:hover { color: #a03c21; }
 
-figure {
-    
-}
-   img { padding:1px;
+
+   .imgid { padding:1px;
    border:1px solid #021a40;
    background-color:#ff0;
-	   float: left;
-    margin-left: 50px;
-    margin-right: 50px;
+	 
 }
 .container {
 	display: grid;
