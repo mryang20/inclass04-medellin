@@ -14,7 +14,7 @@
 
 <article>
 	<hr>
-	<figure><img src="images/casey.jpg" alt="casey"></figure>
+	<figure><img src="images/casey.jpg" class= "imgid" alt="casey"></figure>
 
 		<h2>About Me</h2>
 
