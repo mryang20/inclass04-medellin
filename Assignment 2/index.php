@@ -7,7 +7,7 @@
 
 		<title>Team Medellín, Assignment 2</title>
 		<link href="css/styles.css" rel="stylesheet">
- 
+
 		<link href="css/navigation.css" rel="stylesheet">
 
 
@@ -55,8 +55,6 @@
 		</div><!--.container-->
 
 
-		
-		
 	</body>
 
 </html>
