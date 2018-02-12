@@ -55,5 +55,10 @@
 
 		</article>
 	</body>
-
+<footer>
+		Team Medellín
+		<br>
+		CSC 174: Advanced Web Design
+	</footer>
+	
 </html>
