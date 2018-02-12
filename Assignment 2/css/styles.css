@@ -42,9 +42,10 @@ figure {
     margin-left: 50px;
     margin-right: 50px;
 	
-	border: 10px solid transparent;
-    padding: 15px;
-
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0
+}
 .container {
 	display: grid;
 	grid-template-rows: 40% 50%;
