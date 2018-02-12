@@ -10,7 +10,7 @@
 	</head>
 	<body>
 <?php include "includes/navigation.php" ?>
-
+<article>
 		<img src="images/jimmy.jpg" alt="jimmy">
 
 		<h2>About Me</h2>
@@ -31,7 +31,7 @@
 
 			<h3>Initial Role</h3>
 				<p>My initial role was to be an information architect because I believe I'm suited for that kind of role. I am good at organization and I am good at leading a team. In my current and past work experience, organization is critical to be able to keep track of all the data that's being processed. I believe I am good at leading a team, as I have done so many times in my professional as well as academic career. For me, good organization and effective leadership are critical for the success of any project.</p>
-
+</article>
 	<script src="http://code.jquery.com/jquery.js"></script>
 <script src="js/menu-highlighter.js"></script>
 	</body>
