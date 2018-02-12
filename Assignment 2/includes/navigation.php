@@ -11,6 +11,6 @@ CSC 174 - Advanced Front End Web Design </div>
 		<li><a href="index.php">Home Page</a></li>
 		<li><a href="casey.php">Casey Brentnall</a></li>
 		<li><a href="irfan.php">Irfan Bashir</a></li>
-		<li><a href="jimmy.php">Jimm Yang</a></li>
+		<li><a href="jimmy.php">Jimmy Yang</a></li>
 	</ul>
 </nav>
