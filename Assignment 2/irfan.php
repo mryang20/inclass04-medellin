@@ -1,13 +1,16 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>Irfan Bashir, Assignment 2</title>
+		
 		<link href="css/styles.css" rel="stylesheet">
-	</head>
+		<link href="css/navigation.css" rel="stylesheet">
 
+
+	</head>
 	<body>
-		<?php include "includes/navigation.php";?>
+	<?php include "includes/navigation.php" ?>
 
 		<img src="images/irfan.png" alt="irfan">
 
@@ -33,7 +36,11 @@
 				<p>My initial role was to be a design artist. I have always been interested in designing be it Front End Web design or graphical design. I do plan to switch roles as the semester progresses, but Designer will be my priority role, followed by maybe Information Architecture. My on-campus job as a 'Digital Media Specialist' also puts me at advantage when it comes to design. I have working experience with Adobe Photoshop CC, Corel draw and InDesign.</p>
 	
 				<p>When I think of design, I try to bring abstraction into my work which allows the meaning of what I create to be open to interpretation. My goal as a designer for this class would be show some element of abstraction in my work.</p>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 	</body>
+
 	<footer>
 		Team Medellín
 		<br>

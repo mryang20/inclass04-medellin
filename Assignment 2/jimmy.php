@@ -1,13 +1,15 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>Jimmy Yang, Assignment 2</title>
 		<link href="css/styles.css" rel="stylesheet">
-	</head>
+		<link href="css/navigation.css" rel="stylesheet">
 
+
+	</head>
 	<body>
-		<?php include "includes/navigation.php";?>
+<?php include "includes/navigation.php" ?>
 
 		<img src="images/jimmy.jpg" alt="jimmy">
 
@@ -30,7 +32,8 @@
 			<h3>Initial Role</h3>
 				<p>My initial role was to be an information architect because I believe I'm suited for that kind of role. I am good at organization and I am good at leading a team. In my current and past work experience, organization is critical to be able to keep track of all the data that's being processed. I believe I am good at leading a team, as I have done so many times in my professional as well as academic career. For me, good organization and effective leadership are critical for the success of any project.</p>
 
-	</body>
+	<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 	</body>
 	<footer>
 		Team Medellín

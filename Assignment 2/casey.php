@@ -1,13 +1,18 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>Casey Brentnall, Assignment 2</title>
-		<link href="css/styles.css" rel="stylesheet">
-	</head>
+		
+	<link href="css/styles.css" rel="stylesheet">
+		<link href="css/navigation.css" rel="stylesheet">
 
+
+	</head>
 	<body>
-		<?php include "includes/navigation.php";?> 
+<?php include "includes/navigation.php" ?>
+
+
 
 		<h2>About Me</h2>
 
@@ -34,6 +39,11 @@
 
 			<h3>Initial Role</h3>
 				<p>My initial role was to be a design artist. I would be responsible for everything the user sees, in any browser type and size. I make decisions about the graphic design, specifically relating to the colors, the styles, the fonts, and the layouts of the website. I would ensure these components would work across any browser type and size. For me, good graphic design shouldn't cause readability problems. The presentation layer (styles) would be coded in CSS so it is visually arranged in a way that makes sense for the content and adds value to the structure layer. Styles (CSS) should meet industry standards and best practices including W3C CSS validation within reason.</p>
+
+
+
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 	</body>
 	<footer>
 		Team Medellín
