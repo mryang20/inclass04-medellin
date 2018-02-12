@@ -1,3 +1,10 @@
+<header>
+<div class = "logo"><h1><a href="index.html"><img src="images/fdp.jpg" alt ="Logo"> 
+Medellin Inc   </h1> </a> 
+CSC 174 - Advanced Front End Web Design </div>
+</header>
+
+
 <nav class = "menu">
 	<ul>
 		<li><a href="index.php">Home Page</a></li>
