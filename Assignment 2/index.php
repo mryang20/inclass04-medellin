@@ -14,7 +14,7 @@
 
 
 	</head>
-	<body class="body>
+	<body>
 		<?php include "includes/navigation.php" ?>
 		<div class="container">
 			<div class="slideshow">
