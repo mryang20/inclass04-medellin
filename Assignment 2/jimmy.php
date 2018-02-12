@@ -11,8 +11,9 @@
 	<body>
 <?php include "includes/navigation.php" ?>
 <article>
-		<img src="images/jimmy.jpg" alt="jimmy">
 	<hr>
+		<img src="images/jimmy.jpg" alt="jimmy">
+	
 
 		<h2>About Me</h2>
 
