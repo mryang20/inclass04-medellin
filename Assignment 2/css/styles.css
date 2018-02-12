@@ -53,7 +53,7 @@ a:hover { color: #a03c21; }
 }
 
 .slideshow {
-	float: right;
+	float: center;
 	style="max-width: 1000px; margin-left: auto; margin-right: auto;
 	}
 
