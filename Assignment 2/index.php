@@ -16,6 +16,7 @@
 	</head>
 	<body>
 	<article>
+	<hr>
 		<?php include "includes/navigation.php" ?>
 		<div class="container">
 			<div class="slideshow">
