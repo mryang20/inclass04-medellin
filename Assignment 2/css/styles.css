@@ -49,6 +49,7 @@ figure {
 	 
 }
 .container {
+	float: right;
 	display: grid;
 	grid-template-rows: 40% 50%;
 	grid-template-columns: 1fr 1fr 1fr;
