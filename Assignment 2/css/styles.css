@@ -37,6 +37,11 @@ a { color: #fff; text-decoration: none; }
 
 a:hover { color: #a03c21; }
 
+figure {
+    float: right;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
    .imgid { padding:1px;
    border:1px solid #021a40;
@@ -53,7 +58,7 @@ a:hover { color: #a03c21; }
 }
 
 .slideshow {
-	float: left;
+	float: right;
 	style="max-width: 1000px; margin-left: auto; margin-right: auto;
 	}
 
