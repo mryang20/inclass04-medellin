@@ -12,6 +12,7 @@
 <?php include "includes/navigation.php" ?>
 <article>
 		<img src="images/jimmy.jpg" alt="jimmy">
+	<hr>
 
 		<h2>About Me</h2>
 
