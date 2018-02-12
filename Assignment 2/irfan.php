@@ -13,7 +13,7 @@
 	<?php include "includes/navigation.php" ?>
 <article>
 	<hr>
-		<img src="images/irfan.png" alt="irfan">
+	<figure>	<img src="images/irfan.png" alt="irfan"> </figure>
 		
 		
 		<h2>About Me</h2>
