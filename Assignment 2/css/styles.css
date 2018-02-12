@@ -71,8 +71,7 @@ article {
 	border: 10px;
 	position: relative;
 	width: 150%;
-background-image: -webkit-radial-gradient(circle farthest-corner at 50% 50%, #000, #fff);
-  background-image: radial-gradient(circle farthest-corner at 50% 50%, #000, #fff);
+
 }
 }
 
@@ -100,9 +99,8 @@ footer {
 }
 body {
 	
-background-image: -webkit-radial-gradient(circle farthest-corner at 50% 50%, #000, #fff);
-  background-image: radial-gradient(circle farthest-corner at 50% 50%, #000, #fff);
-
+background-image: -webkit-linear-gradient(white 0%, #f3f3f3 100%);
+  background-image: linear-gradient(white 0%, #f3f3f3 100%);
   margin: 0;
   min-height: 100%;
   background-color: #fff;
