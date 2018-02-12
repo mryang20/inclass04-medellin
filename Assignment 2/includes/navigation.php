@@ -1,6 +1,6 @@
 <header>
 <div class = "logo"><h1><a href="index.php"><img src="images/logo.png" alt ="Logo"> 
-Medellin Inc   </h1> </a> 
+<br>Medellin Inc   </h1> </a> 
 CSC 174 - Advanced Front End Web Design </div>
 <hr>
 </header>
