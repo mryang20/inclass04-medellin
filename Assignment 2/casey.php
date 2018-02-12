@@ -13,8 +13,9 @@
 <?php include "includes/navigation.php" ?>
 
 <article>
+	<hr>
 <img src="images/casey.jpg" alt="casey">
-<hr>
+
 		<h2>About Me</h2>
 
 			<h3>Introduction</h3>
