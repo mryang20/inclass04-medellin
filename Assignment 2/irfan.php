@@ -44,6 +44,7 @@
 	</body>
 
 	<footer>
+		<hr>
 		Team Medellín
 		<br>
 		CSC 174: Advanced Web Design
