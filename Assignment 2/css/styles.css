@@ -98,8 +98,8 @@ footer {
 }
 body {
 	
-background-image: -webkit-radial-gradient(circle farthest-corner at 50% 50%, #000, #fff);
-  background-image: radial-gradient(circle farthest-corner at 50% 50%, #000, #fff);
+background-image: -webkit-radial-gradient(circle farthest-corner at 10% 10%, #000, #fff);
+  background-image: radial-gradient(circle farthest-corner at 10% 10%, #000, #fff);
 
   margin: 0;
   min-height: 100%;
