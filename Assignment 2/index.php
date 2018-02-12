@@ -16,8 +16,9 @@
 	</head>
 	<body>
 	<article>
-	<hr>
+	
 		<?php include "includes/navigation.php" ?>
+		<hr>
 		<div class="container">
 			<div class="slideshow">
 				<div class="slider">
@@ -26,6 +27,8 @@
 				 	<img src="images/jimmy.jpg" alt="Jimmy">
 				</div><!--.slider-->
 			</div><!--.slideshow-->
+			
+			<hr>
 
 			<p>This is the Assignment 2 Website of Team Medellín. Its members are Casey Brentnall, Irfan Bashir, and Jimmy Yang. Each member plays his own unique role in the website, and all contribute equally to it.</p>
 			
