@@ -15,6 +15,7 @@
 
 	</head>
 	<body>
+	<article>
 		<?php include "includes/navigation.php" ?>
 		<div class="container">
 			<div class="slideshow">
@@ -48,7 +49,7 @@
 			
 		</div><!--.container-->
 
-
+		</article>
 	</body>
 
 </html>
