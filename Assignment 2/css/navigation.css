@@ -43,9 +43,11 @@ nav ul a {
 
 .logo {
     position:relative;
-    width: 80%;
+    width: 50%;
     float: left;
     display: block;
     padding: 10px;
+	margin-top: 0px;
+    margin-bottom: 0px;
 	
 }
