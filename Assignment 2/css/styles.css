@@ -10,7 +10,10 @@ article {
 	padding-right: 20px;
 	border: 10px;
 	position: relative;
-	width: 150%
+	width: 150%;
+background-image: -webkit-linear-gradient(333deg, #000, #fff);
+  background-image: linear-gradient(117deg, #000, #fff);
+}
 }
 
 section { 
@@ -36,11 +39,9 @@ footer {
 	
 }
 body {
+background-image: -webkit-linear-gradient(333deg, #000, #fff);
+  background-image: linear-gradient(117deg, #000, #fff);
 
-background: linear-gradient(to bottom, rgba(210,223,237,1) 0%,rgba(200,215,235,1) 26%,rgba(190,208,234,1) 51%,rgba(166,192,227,1) 51%,rgba(175,199,232,1) 62%,rgba(186,208,239,1) 75%,rgba(153,181,219,1) 88%,rgba(121,155,200,1) 100%);
-color: black;
-font-family: Georgia, Verdana, Arial;
-	
 }
 
 p { color: black; font-family: "Helvetica Neue",Arial,sans-serif; font-size: 16px; font-weight: 500; line-height: 1.5000; margin-bottom: 15px; }
