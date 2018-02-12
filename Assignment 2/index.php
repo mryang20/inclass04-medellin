@@ -29,10 +29,10 @@
 			</div><!--.slideshow-->
 			
 			
-<article>
+
 			<p>This is the Assignment 2 Website of Team Medellín. Its members are Casey Brentnall, Irfan Bashir, and Jimmy Yang. Each member plays his own unique role in the website, and all contribute equally to it.</p>
 			
-			</article>
+			
 			
 			
 			<script src="http://code.jquery.com/jquery.js"></script>
