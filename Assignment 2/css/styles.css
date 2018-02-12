@@ -54,7 +54,7 @@ figure {
 	grid-template-rows: 40% 50%;
 	grid-template-columns: 1fr 1fr 1fr;
 	margin: 2 auto;
-	width: 120%;
+	width: 200%;
 	max-width: 1280px;
 	
 }
