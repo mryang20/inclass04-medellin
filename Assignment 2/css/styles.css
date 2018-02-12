@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .is-current {
  		background-color: black;
  		color: white;
@@ -24,7 +24,11 @@ figure {
     float: right;
     margin-left: 50px;
     margin-right: 50px;
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> eb53335c3d4cf48534f43f1d287e1ac756bfdb4b
 .container {
 	display: grid;
 	grid-template-rows: 40% 50%;
@@ -36,6 +40,5 @@ figure {
 
 .slider {
 	grid-columns: 2;
->>>>>>> d0e90370254c65a8d0b02eb10c8cb2bd71d5cc47
 }
 
