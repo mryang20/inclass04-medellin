@@ -80,8 +80,7 @@ section {
 	border: 10px;
 	position: relative;
 	width: 150%;
-	background-image: -webkit-linear-gradient(333deg, #000, #fff);
-  background-image: linear-gradient(117deg, #000, #fff);
+	
 
 }
 
