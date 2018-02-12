@@ -15,7 +15,7 @@
 
 	</head>
 	<body>
-	
+	<article>
 	
 		<?php include "includes/navigation.php" ?>
 		<hr>
@@ -53,7 +53,7 @@
 			
 		</div><!--.container-->
 
-		
+		</article>
 	</body>
 <footer>
 <hr>
