@@ -7,7 +7,7 @@
 
 		<title>Team Medellín, Assignment 2</title>
 		<link href="css/styles.css" rel="stylesheet">
-<<<<<<< HEAD
+ HEAD
 		<link href="css/navigation.css" rel="stylesheet">
 
 
@@ -55,7 +55,7 @@
 		</div><!--.container-->
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="js/menu-highlighter.js"></script>
->>>>>>> d0e90370254c65a8d0b02eb10c8cb2bd71d5cc47
+
 		
 		
 	</body>
