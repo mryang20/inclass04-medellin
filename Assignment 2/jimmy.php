@@ -9,8 +9,9 @@
 
 	</head>
 	<body>
+		<article>
 <?php include "includes/navigation.php" ?>
-<article>
+
 	<hr>
 	<figure>	<img src="images/jimmy.jpg" class="imgid" alt="jimmy">  </figure>
 	
