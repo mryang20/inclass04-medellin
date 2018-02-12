@@ -30,7 +30,7 @@
 			
 			
 
-			<section><p>This is the Assignment 2 Website of Team Medellín. Its members are Casey Brentnall, Irfan Bashir, and Jimmy Yang. Each member plays his own unique role in the website, and all contribute equally to it.</p>
+			<section><p>This is the Assignment 2 Website of Team Medellín. Its members are Casey Brentnall, Irfan Bashir, and Jimmy Yang. The pages on this website details their biographies and the initial role they wanted to take on for Assignment 2.</p>
 			</section>
 			
 			
