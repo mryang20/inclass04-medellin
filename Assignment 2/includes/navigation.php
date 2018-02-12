@@ -2,6 +2,7 @@
 <div class = "logo"><h1><a href="index.html"><img src="images/da.jpg" alt ="Logo"> 
 Medellin Inc   </h1> </a> 
 CSC 174 - Advanced Front End Web Design </div>
+<hr>
 </header>
 
 
