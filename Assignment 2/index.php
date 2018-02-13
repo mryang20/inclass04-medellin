@@ -23,7 +23,7 @@
 			<div class="slideshow">
 				<div class="slider">
 				 	<img src="images/casey.jpg" alt="Casey">
-				 	<img src="images/irfan.png" alt="Irfan">
+				 	<img src="images/irfan.jpg" alt="Irfan">
 				 	<img src="images/jimmy.jpg" alt="Jimmy">
 				</div><!--.slider-->
 			</div><!--.slideshow-->
