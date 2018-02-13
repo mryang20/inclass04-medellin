@@ -15,7 +15,7 @@
 	<?php include "includes/navigation.php" ?>
 
 	<hr>
-	<figure> <img src="images/irfan.png" class="imgid" alt="irfan"> </figure>
+	<figure> <img src="images/irfan.jpg" class="imgid" alt="irfan"> </figure>
 		
 		
 		<h2>About Me</h2>
