@@ -14,6 +14,7 @@
 			<article>
 
 				<!-- this is where I think the JavaScript element should go. Probably just a slideshow of each student, with the pictures in the "images" folder, unless you want to do something else. -->
+				<!-- the SSS javascript plugin that I used for our assignment 2 might work well. It's a bit lacking on features, but I think it works well and it's an easy install -->
 
 				<!-- I picture a nice clean sans-serif font for the paragraph text on the site. A good pairing with Iconsolata would be Montserrat, which is also a google font -->
 				<section><p>Despite being listed as a Computer Science course, many of the students in this class are not Computer Science majors. The appeal of website development is wide ranging, and the class has students ranging from Digital Media Studies majors to Psychology majors. That isn't to say Computer Science majors can't enjoy the class, however, and many of our students are CSC majors. Here, we'll get to know a few of them a little better.</p></section>

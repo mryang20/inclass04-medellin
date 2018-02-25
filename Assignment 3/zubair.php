@@ -1,4 +1,5 @@
 	<?php include "inc/html-top.inc" ?>
+
 	<body>
 		<div class="container">
 			<header>
@@ -7,6 +8,7 @@
 				<!-- I've already assigned a class called "menu" to the nav element, to use with CSS. -->
 				<?php include "inc/nav.inc" ?>
 			</header>
+			
 			<article>
 				<h2>Zubair Aziz</h2>
 

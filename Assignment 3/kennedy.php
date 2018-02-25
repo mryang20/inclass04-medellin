@@ -9,12 +9,16 @@
 				<?php include "inc/nav.inc" ?>
 			</header>
 
+			<!-- For the student pages, I feel like a C-clamp or something could work for layout. Header fixed to the top, footer fixed to the bottom, with the information on the left two thirds of the screen and with the image on the right third -->
+
+			<!-- Also, I know I'm not supposed to give design advice Irfan, but I feel bad for getting this to you so late. The color scheme for the site could be something "codey," so we could do a black background with white text (like the Terminal) or something like that. Just suggestions -->
 			<article>
 				<!-- Inconsolata? -->
 				<h2>Kennedy Agusi</h2>
 
 				<h3>About Me</h3>
 
+					<!-- Montserrat?-->
 					<p>My name is Kennedy Agusi and I am a senior at the University of Rochester. I am majoring in computer science and minoring in mathematics. My area of specialty includes software, mobile and web development.</p>
 
 					<p> feel like I have traveled a lot in my life to the extent I no longer have a permanent home. Every new place I travel to I try to make it my home. After my high school in Nigeria, I traveled to four(4) different countries(UK, Spain, Israel and France) before coming to United States. My journey in United States started in community college in Dallas back in 2015. After completing my associate I transfered to University of Rochester (my traveling continues) to pursue my Bachelors. Ever since I came to United States I have had summer jobs in different states. I guess I should changed my name to "traveler".</p>
