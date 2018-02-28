@@ -3,10 +3,13 @@
 	<body>
 		<div class="container">
 			<header>
+				
 				<!-- For the h1's on this page, I was thinking of using a "coding" type font. A good choice would be Inconsolata, its on google fonts. Maybe use the same font for all the "titles", h1, h2, etc -->
 				<h1>CS Majors in CSC 174</h1>
+				
 				<!-- I've already assigned a class called "menu" to the nav element, to use with CSS. -->
 				<?php include "inc/nav.inc" ?>
+				
 			</header>
 
 			<!-- For the student pages, I feel like a C-clamp or something could work for layout. Header fixed to the top, footer fixed to the bottom, with the information on the left two thirds of the screen and with the image on the right third -->
@@ -36,7 +39,9 @@
 					<img src="images/kennedy.jpg" alt="Kennedy Agusi">
 					<figcaption>Senior CS student Kennedy Agusi</figcaption>
 				</figure>
+				
 			</aside>
+			
 			<?php include "inc/foot.inc" ?>
 		</div><!-- .container -->
 	</body>
