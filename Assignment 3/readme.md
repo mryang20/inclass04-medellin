@@ -1,7 +1,7 @@
 Casey is the IA 
 
 
-Irfan is the Designer
+Irfan is the Coder
 
 
-Jimmy is the Coder
+Jimmy is the Designer
