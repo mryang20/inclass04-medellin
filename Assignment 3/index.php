@@ -15,6 +15,7 @@
 			</header>
 		</div>
 			
+<hr>
 			<article>
 
 				<div class="bodycontainer">
