@@ -53,3 +53,15 @@ p, figcaption, ul {
 body{
   background-color: #f2f9ea;
 }
+
+.slideshow {
+	float: right;
+	style="max-width: 1000px; margin-left: auto; margin-right: auto;
+	 
+	grid-cloumns: 2;
+	}
+
+.slider {
+	grid-columns: 0;
+	border: 6px solid #021a40;
+}
