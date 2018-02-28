@@ -1,7 +1,7 @@
 	<?php include "inc/html-top.inc" ?>			
 
 	<body>
-		<div class="container">
+		<div class="headercontainer">
 			<header>
 				
 				<!-- For the h1's on this page, I was thinking of using a "coding" type font. A good choice would be Inconsolata, its on google fonts. Maybe use the same font for all the "titles", h1, h2, etc -->
@@ -11,13 +11,19 @@
 				<?php include "inc/nav.inc" ?>
 				
 			</header>
+		</div>
 
 			<!-- For the student pages, I feel like a C-clamp or something could work for layout. Header fixed to the top, footer fixed to the bottom, with the information on the left two thirds of the screen and with the image on the right third -->
 
 			<!-- Also, I know I'm not supposed to give design advice Irfan, but I feel bad for getting this to you so late. The color scheme for the site could be something "codey," so we could do a black background with white text (like the Terminal) or something like that. Just suggestions -->
 			<article>
 				<!-- Inconsolata? -->
+				<div class = "bodycontainer">
+
 				<h2>Kennedy Agusi</h2>
+
+				<img src="images/kennedy.jpg" alt="Kennedy Agusi">
+				<figcaption>Senior CS student Kennedy Agusi</figcaption>
 
 				<h3>About Me</h3>
 
@@ -32,19 +38,10 @@
 
 				<p>Most recently, I worked a software development job at Nubiatech in Calumet City, Illinois. There, I designed and implemented nursing home management software, including database management systems for clients. I worked with Flask framework, Python, and MySQL there. Before that, I worked as a software developer in a chemistry lab at Richland College in Dallas. Me and my superviosr worked to develop software to help the lab track inventory. The year before that, I worked at Sharyland Utilites in Dallas, where I researched electrical impacts on the power grid at the company.</p>
 
+				</div>
+
 			</article>
 
-			<aside>
-				<figure>
-					<img src="images/kennedy.jpg" alt="Kennedy Agusi">
-					<figcaption>Senior CS student Kennedy Agusi</figcaption>
-				</figure>
-				
-			</aside>
-			
 			<?php include "inc/foot.inc" ?>
-		</div><!-- .container -->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="js/menu-highlighter.js"></script>
 	</body>
 </html>
