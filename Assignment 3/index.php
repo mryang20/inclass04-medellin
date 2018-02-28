@@ -57,7 +57,6 @@
 			<!-- I imagine the footer stretching across the bottom of the page, but that's up to you -->
 			<?php include "inc/foot.inc" ?>
 		
-		</div><!-- .container -->
 		
 	</body>
 </html>
