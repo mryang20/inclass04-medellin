@@ -18,7 +18,13 @@
 			<article>
 
 				<div class="bodycontainer">
-
+				<div class="slideshow">
+				<div class="slider">
+				 	<img src="images/alejandro.jpg" alt="alejandro">
+				 	<img src="images/kennedy.jpg" alt="kennedy">
+				 	<img src="images/zubair.jpg" alt="zubair">
+				</div><!--.slider-->
+			</div><!--.slideshow-->
 				<!-- this is where I think the JavaScript element should go. Probably just a slideshow of each student, with the pictures in the "images" folder, unless you want to do something else. -->
 				<!-- the SSS javascript plugin that I used for our assignment 2 might work well. It's a bit lacking on features, but I think it works well and it's an easy install -->
 
@@ -35,6 +41,17 @@
 		</div><!-- .container -->
 		<script src="http://code.jquery.com/jquery.js"></script>
 		<script src="js/menu-highlighter.js"></script>
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+		<script src="sss/sss.min.js"></script>
+			<script> $('.slider').sss(); </script>
+		  		<script>
+				 	$( "#accordion" ).accordion({
+				 		heightStyle: "content"
+
+				 	});
+			</script>
 			
 	</body>
 </html>
