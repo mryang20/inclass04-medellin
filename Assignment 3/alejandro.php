@@ -19,8 +19,8 @@
 
 				<h2>Alejandro Abreu</h2>
 
-				<img src="images/alejandro.jpg" alt="Alejandro Abreu">
-				<figcaption>Senior CS student Alejandro Abreu</figcaption>
+				<figure><img src="images/alejandro.jpg" alt="Alejandro Abreu">
+					<figcaption>Senior CS student Alejandro Abreu</figcaption></figure>
 
 				<h3>About Me</h3>
 
