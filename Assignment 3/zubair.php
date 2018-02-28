@@ -18,8 +18,8 @@
 
 				<h2>Zubair Aziz</h2>
 
-				<img src="images/zubair.jpg" alt="Zubair Aziz" style>
-				<figcaption>Junior CS student Zubair Aziz</figcaption>
+					</figure><img src="images/zubair.jpg" alt="Zubair Aziz" style>
+				<figcaption>Junior CS student Zubair Aziz</figcaption></figure>
 
 				<h3>About Me</h3>
 
