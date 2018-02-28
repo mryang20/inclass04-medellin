@@ -22,8 +22,8 @@
 
 				<h2>Kennedy Agusi</h2>
 
-				<img src="images/kennedy.jpg" alt="Kennedy Agusi">
-				<figcaption>Senior CS student Kennedy Agusi</figcaption>
+			<figure>	<img src="images/kennedy.jpg" alt="Kennedy Agusi">
+				<figcaption>Senior CS student Kennedy Agusi</figcaption> </figure>
 
 				<h3>About Me</h3>
 
