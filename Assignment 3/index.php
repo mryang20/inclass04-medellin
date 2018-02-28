@@ -24,7 +24,9 @@
 				 	<img src="images/kennedy.jpg" alt="kennedy">
 				 	<img src="images/zubair.jpg" alt="zubair">
 				</div><!--.slider-->
+				
 			</div><!--.slideshow-->
+<hr>
 				<!-- this is where I think the JavaScript element should go. Probably just a slideshow of each student, with the pictures in the "images" folder, unless you want to do something else. -->
 				<!-- the SSS javascript plugin that I used for our assignment 2 might work well. It's a bit lacking on features, but I think it works well and it's an easy install -->
 
