@@ -1,7 +1,7 @@
 	<?php include "inc/html-top.inc" ?>
 
 	<body>
-		<div class="container">
+		<div class="headercontainer">
 			<header>
 				
 				<!-- For the h1's on this page, I was thinking of using a "coding" type font. A good choice would be Inconsolata, its on google fonts. Maybe use the same font for all the "titles", h1, h2, etc -->
@@ -11,9 +11,15 @@
 				<?php include "inc/nav.inc" ?>
 				
 			</header>
+		</div>
 			
 			<article>
+				<div class = "bodycontainer">
+
 				<h2>Zubair Aziz</h2>
+
+				<img src="images/zubair.jpg" alt="Zubair Aziz" style>
+				<figcaption>Junior CS student Zubair Aziz</figcaption>
 
 				<h3>About Me</h3>
 
@@ -27,22 +33,10 @@
 
 				<p>I currently work for IT Services on campus, working as an IT Consultant. Here, I assist with network registration and troubleshoot network issues, troubleshoot NetID and login issues, provide support through various methods,assist with various types of malware on students' personal computers. I’d say that the most interesting experience while working here are the night-owl shifts, where I work at the help desk, doing the exact same thing an IT Consultant would normally do, except at the late hours of midnight to 8 am.</p>
 
-				<p>Other than that, last summer I had the chance to work for Media Prima Digital, a multimedia company based in Malaysia. There, I was an intern working as a developer that worked on web & app development. Here, I worked with the team to develop modern websites and apps for various different uses. I was also trained in both front end and back end systems for web development. I learned how to optimize pages for better load speeds and better rankings for search engine optimization. One of the more notable projects we had was working with Robot Framework, a Python extension, to automate web page testing.</p>
+				</div>
 
 			</article>
-
-			<aside>
-				<!-- If you want to do a slideshow on the index page, zubair's picture will probably have to be cropped. The other two are already the same size. -->
-				<figure>
-					<img src="images/zubair.jpg" alt="Zubair Aziz">
-					<figcaption>Junior CS student Zubair Aziz</figcaption>
-				</figure>
-				
-			</aside>
 			
 			<?php include "inc/foot.inc" ?>
-		</div><!-- .container -->
-			<script src="http://code.jquery.com/jquery.js"></script>
-			<script src="js/menu-highlighter.js"></script>
 	</body>
 </html>
