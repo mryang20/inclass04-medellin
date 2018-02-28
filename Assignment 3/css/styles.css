@@ -54,15 +54,10 @@ body{
   background-color: #f2f9ea;
 }
 
-.slideshow {
-	
-	
-	 
-	grid-cloumns: 2;
-	}
+
 
 .slider {
-	grid-columns: 0;
+	
 	border: 2px solid #021a40;
 }
 
