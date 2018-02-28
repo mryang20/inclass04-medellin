@@ -1,7 +1,7 @@
 	<?php include "inc/html-top.inc" ?>
 	
-	<body>
-		<div class="container">
+<body>
+		<div class="headercontainer">
 			<header>
 				
 				<!-- For the h1's on this page, I was thinking of using a "coding" type font. A good choice would be Inconsolata, its on google fonts. Maybe use the same font for all the "titles", h1, h2, etc -->
@@ -11,9 +11,16 @@
 				<?php include "inc/nav.inc" ?>
 				
 			</header>
+		</div>
 
 			<article>
+
+				<div class = "bodycontainer">
+
 				<h2>Alejandro Abreu</h2>
+
+				<img src="images/alejandro.jpg" alt="Alejandro Abreu">
+				<figcaption>Senior CS student Alejandro Abreu</figcaption>
 
 				<h3>About Me</h3>
 
@@ -25,19 +32,11 @@
 
 				<h3>Work Experience</h3>
 
-				<p>Starting in 2014, I began working as a building manager at Goergen Athletic Center here on campus. I worked on making sure the building was running smoothly. Before that, I worked as a camp counselor for two years at 92Y Camps, where I was in charge of making sure the campers were all safe and having an awesome time. Before that, I worked as a tutor in mathematics for Upward Bound, where I helped kids improve their math skills as well as prepare for the SAT.</p>
+					<p>Starting in 2014, I began working as a building manager at Goergen Athletic Center here on campus. I worked on making sure the building was running smoothly. Before that, I worked as a camp counselor for two years at 92Y Camps, where I was in charge of making sure the campers were all safe and having an awesome time. Before that, I worked as a tutor in mathematics for Upward Bound, where I helped kids improve their math skills as well as prepare for the SAT.</p>
+
+				</div>
 
 			</article>
-
-			<aside>
-				<figure>
-					<img src="images/alejandro.jpg" alt="Alejandro Abreu">
-					<figcaption>Senior CS student Alejandro Abreu</figcaption>
-				</figure>
-			</aside>
-			<?php include "inc/foot.inc" ?>
-		</div><!-- .container -->
-		<script src="http://code.jquery.com/jquery.js"></script>
-		<script src="js/menu-highlighter.js"></script>
+				<?php include "inc/foot.inc" ?>
 	</body>
 </html>
