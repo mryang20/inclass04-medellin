@@ -3,10 +3,13 @@
 	<body>
 		<div class="container">
 			<header>
+				
 				<!-- For the h1's on this page, I was thinking of using a "coding" type font. A good choice would be Inconsolata, its on google fonts. Maybe use the same font for all the "titles", h1, h2, etc -->
 				<h1>CS Majors in CSC 174</h1>
+				
 				<!-- I've already assigned a class called "menu" to the nav element, to use with CSS. -->
 				<?php include "inc/nav.inc" ?>
+				
 			</header>
 			
 			<article>
@@ -34,7 +37,9 @@
 					<img src="images/zubair.jpg" alt="Zubair Aziz">
 					<figcaption>Junior CS student Zubair Aziz</figcaption>
 				</figure>
+				
 			</aside>
+			
 			<?php include "inc/foot.inc" ?>
 		</div><!-- .container -->
 	</body>
