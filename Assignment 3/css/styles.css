@@ -54,7 +54,9 @@ body{
   background-color: #f2f9ea;
 }
 
-
+figure{
+  margin-left: 0px;
+}
 
 .slider {
 	
