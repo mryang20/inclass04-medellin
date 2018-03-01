@@ -1,0 +1,65 @@
+.is-current {
+ 		background-color: black;
+ 		color: white;
+}
+
+
+.bodycontainer { 
+
+  margin-left: 150px;
+  margin-right: 150px;
+  align-content: center;
+
+}
+
+.headercontainer{
+
+  align-content: center;
+  text-align: center;
+
+}
+
+footer p {
+  text-align: center;
+  font-size: 10px;
+}
+
+img{
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+@font-face {
+    font-family: Inconsolata;
+    src: url(Inconsolata/Inconsolata-Bold.ttf);
+}
+
+@font-face{
+    font-family: Montserrat;
+    src: url(Montserrat/Montserrat-Light.ttf);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inconsolata';
+  color: #243c6b;
+}
+
+p, figcaption, ul {
+  font-family: 'Montserrat';
+  color: #243c6b;
+}
+
+body{
+  background-color: #f2f9ea;
+}
+
+figure{
+  margin-left: 0px;
+}
+
+.slider {
+	
+	border: 2px solid #021a40;
+}
+
