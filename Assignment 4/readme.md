@@ -1,5 +1,5 @@
 City Name: Idiotville
-Github URL: 
+Github URL: https://github.com/mryang20/inclass04-medellin/tree/master/Assignment%204
 
 Irfan is the Information Architect
 Casey is the Design Artist
