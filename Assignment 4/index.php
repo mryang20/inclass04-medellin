@@ -7,7 +7,7 @@
 
 		<title>Team Idiotville, Assignment 4</title>
 
-		<link href="css/styles.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/styles.css">
 
 		<link href="css/navigation.css" rel="stylesheet">
 		<link rel="stylesheet" href="sss/sss.css">

@@ -1,5 +1,5 @@
 <header>
-<div class = "logo"> <h1><a href="index.php"><img src="images/logo.png" alt ="Logo"> 
+<div class = "logo"> <h1><a href="index.php"><img src="images/idiotville_banner.png" alt ="Logo"> 
 <br>Idiotville   </h1> </a> 
 	<strong>CSC 174 - Advanced Front End Web Design </strong></div>
 <hr>
