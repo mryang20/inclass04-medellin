@@ -1,6 +1,13 @@
 body {
 	background-color: #DACFD0;
-	color: #DACFD0;
+	font-family: 'Antic Slab', serif;
+	display: grid;
+	grid-template-columns: 7% 1fr 7%;
+	grid-template-rows: 1fr 1fr 1fr;
+}
+
+body h1, h2, h3 {
+	font-family: 'Coptic', serif;
 }
 
 .logo {

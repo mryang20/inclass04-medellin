@@ -4,13 +4,15 @@
 		<meta charset="utf-8">
 
 
-
 		<title>Team Idiotville, Assignment 4</title>
 
 		<link rel="stylesheet" href="css/styles.css">
 
 		<link href="css/navigation.css" rel="stylesheet">
 		<link rel="stylesheet" href="sss/sss.css">
+
+		<link href="https://fonts.googleapis.com/css?family=Antic+Slab" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 		
 
 	</head>
@@ -24,7 +26,7 @@
 			
 			
 
-			<section><p>This is the Assignment 4 Website of Idiotville. The website feautures profiles of Computer Scientists Xiao Cheng, Charlie Lu, Xuanyang Wang and Economist Jimmy Yang. You can book their services for Web Design, Coding, Econometric Anlysis and Graphic Design through the Idiotville Website by filling the form below and Team Idiotville will get in contact with you within twelve hours. </p>
+			<section><p>This is the Assignment 4 Website of Idiotville. The website features profiles of Computer Scientists Xiao Cheng, Charlie Lu, Xuanyang Wang and Economist Jimmy Yang. You can book their services for Web Design, Coding, Econometric Anlysis and Graphic Design through the Idiotville Website by filling out the form below and Team Idiotville will get in contact with you within twelve hours. </p>
 			</section>
 			
 <div class="Form">  
@@ -55,8 +57,6 @@
 
 			
 			
-			
-		</div><!--.container-->
 
 		</article>
 		
