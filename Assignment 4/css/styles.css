@@ -2,7 +2,7 @@ body {
 	background-color: #DACFD0;
 	font-family: 'Antic Slab', serif;
 	display: grid;
-	grid-template-columns: [left-margin] 7% [content] 86% [right-margin] 7%;
+	grid-template-columns: [left-margin] 7% [content-left] 53% [content-right] 33% [right-margin] 7%;
 	grid-template-rows: [title-row] 20% [nav-row] 20% [content-row] 50% [footer-row] 10%;
 }
 
@@ -11,17 +11,17 @@ body h1, h2, h3 {
 }
 
 header {
-	grid-column: content;
+	grid-column: content-left/content-right;
 	grid-row: title-row;
 }
 
-.menu, nav {
-	grid-column: content;
+nav {
+	grid-column: content-left;
 	grid-row: nav-row;
 }
 
-body {
-	grid-column: content;
+ article {
+	grid-column: content-left/content-right;
 	grid-row: content-row;
 }
 
