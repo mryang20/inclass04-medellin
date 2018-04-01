@@ -2,12 +2,27 @@ body {
 	background-color: #DACFD0;
 	font-family: 'Antic Slab', serif;
 	display: grid;
-	grid-template-columns: 7% 1fr 7%;
-	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-columns: [left-margin] 7% [content] 86% [right-margin] 7%;
+	grid-template-rows: [title-row] 20% [nav-row] 20% [content-row] 50% [footer-row] 10%;
 }
 
 body h1, h2, h3 {
 	font-family: 'Coptic', serif;
+}
+
+header {
+	grid-column: content;
+	grid-row: title-row;
+}
+
+.menu, nav {
+	grid-column: content;
+	grid-row: nav-row;
+}
+
+body {
+	grid-column: content;
+	grid-row: content-row;
 }
 
 .logo {

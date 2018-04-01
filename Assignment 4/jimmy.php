@@ -3,16 +3,22 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Jimmy Yang, Assignment 4</title>
-		<link href="css/styles.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/styles.css">
+
 		<link href="css/navigation.css" rel="stylesheet">
+		<link rel="stylesheet" href="sss/sss.css">
+
+		<link href="https://fonts.googleapis.com/css?family=Antic+Slab" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 
 
 	</head>
-	<body>
-		<article>
-<?php include "includes/navigation.php" ?>
+	<?php include "includes/navigation.php" ?>
 
 	<hr>
+	<body>
+		<article>
+
 	<figure>	<img src="images/jimmy.jpg" class="imgid" alt="jimmy">  </figure>
 	
 
@@ -25,7 +31,8 @@
   <p> Currently, I am a Student Aide at the University of Rochester. I patrol sectors and act as the eyes and ears of Public Safety, so to say. In the past, I've worked as a technical assistant at the University of Rochester Medical Center. In that position I looked at records and organized them, as well as uploading them to the internet. After that, I worked as a Volume Licensing Support Specialist for Arvato Digital Services LLC, which was a third-party vendor for Microsoft. I processed orders and made sure that the information was correct. Unfortunately for you, the curious viewer, these jobs are very confidential and I cannot reveal much information. </p>
 
   
-
+
+
 </article>
 
 <aside>

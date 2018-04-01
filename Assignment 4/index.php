@@ -16,11 +16,14 @@
 		
 
 	</head>
-	<body>
-	<article>
-	
-		<?php include "includes/navigation.php" ?>
+
+			<?php include "includes/navigation.php" ?>
 		<hr>
+
+	
+	<body>
+		<!--<div class="container">-->
+	<article>
 
 		<!-- Add slideshow, gallery, or anything esle here -->
 			
@@ -59,6 +62,8 @@
 			
 
 		</article>
+
+	<!--</div>.container-->
 		
 <!-- Add form Here -->
 

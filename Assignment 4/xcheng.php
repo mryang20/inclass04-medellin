@@ -4,18 +4,23 @@
 		<meta charset="utf-8">
 		<title>Xiao Cheng, Assignment 4</title>
 		
-	<link href="css/styles.css" rel="stylesheet">
-		<link href="css/navigation.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/styles.css">
 
+		<link href="css/navigation.css" rel="stylesheet">
+		<link rel="stylesheet" href="sss/sss.css">
+
+		<link href="https://fonts.googleapis.com/css?family=Antic+Slab" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Copse" rel="stylesheet">
 
 	</head>
-	<body>
-<article>
-		
-<?php include "includes/navigation.php" ?>
+	<?php include "includes/navigation.php" ?>
 
 
 	<hr>
+	<body>
+<article>
+		
+
 	<figure><img src="images/xiao.jpeg" class= "imgid" alt="Xiao"></figure>
 
 		<h2>About</h2>
@@ -41,7 +46,8 @@ Major: Computer science
   	<li>Theories of personality and psychotherapy</li>
     <li>Neural foundations of behavior</li>
     <li>Research Method in Psychology</li>
-    </ul>
+    </ul>
+
 	
 </aside>
 		

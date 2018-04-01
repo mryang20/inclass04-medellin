@@ -1,12 +1,12 @@
 <header>
-<div class = "logo"> <h1><a href="index.php"><img src="images/idiotville_banner.png" alt ="Logo"> 
+<div class = "logo"> <!--<h1><a href="index.php"><img src="images/idiotville_banner.png" alt ="Logo">-->
 <br>Idiotville   </h1> </a> 
 	<strong>CSC 174 - Advanced Front End Web Design </strong></div>
 <hr>
 </header>
 
 
-<nav class = "menu">
+<nav class="menu">
 	<ul>
 		<li><a href="index.php">Home Page</a></li>
 		<li><a href="xcheng.php">Xiao Cheng</a></li>
