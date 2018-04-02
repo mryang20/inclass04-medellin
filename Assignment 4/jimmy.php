@@ -13,22 +13,34 @@
 
 
 	</head>
-	<?php include "includes/navigation.php" ?>
+	<div class="container" id="orange">
+	
+	<header>
+<div class="logo"> <figure><a href="index.html"><img src="images/jimmy_banner.png" alt ="Logo"> 
+<br><h1>Idiotville   </h1> </a> </figure>
+	<strong>CSC 174 - Advanced Front End Web Design </strong></div>
 
-	<hr>
+</header>
+
+
+<?php include "includes/navigation.inc" ?>
+
+
+	
 	<body>
+		
 		<article>
 
-	<figure>	<img src="images/jimmy.jpg" class="imgid" alt="jimmy">  </figure>
+	
 	
 
-		<h2>About</h2>
+		<div class="about"><h2>About</h2>
 
-  <p> Hello! My name is Jimmy Yang. I am a sophomore and I am double majoring in Economics and Global Perspectives History. I am from a quaint small town called Fargo, ND. </p>
+  <p> Hello! My name is Jimmy Yang. I am a sophomore and I am double majoring in Economics and Global Perspectives History. I am from a quaint small town called Fargo, ND. </p></div><!--.about-->
   
-  <h2>Experience</h2>
+  <div class="experience"><h2>Experience</h2>
 
-  <p> Currently, I am a Student Aide at the University of Rochester. I patrol sectors and act as the eyes and ears of Public Safety, so to say. In the past, I've worked as a technical assistant at the University of Rochester Medical Center. In that position I looked at records and organized them, as well as uploading them to the internet. After that, I worked as a Volume Licensing Support Specialist for Arvato Digital Services LLC, which was a third-party vendor for Microsoft. I processed orders and made sure that the information was correct. Unfortunately for you, the curious viewer, these jobs are very confidential and I cannot reveal much information. </p>
+  <p> Currently, I am a Student Aide at the University of Rochester. I patrol sectors and act as the eyes and ears of Public Safety, so to say. In the past, I've worked as a technical assistant at the University of Rochester Medical Center. In that position I looked at records and organized them, as well as uploading them to the internet. After that, I worked as a Volume Licensing Support Specialist for Arvato Digital Services LLC, which was a third-party vendor for Microsoft. I processed orders and made sure that the information was correct. Unfortunately for you, the curious viewer, these jobs are very confidential and I cannot reveal much information. </p></div><!--.experience-->
 
   
 
@@ -36,6 +48,8 @@
 </article>
 
 <aside>
+
+<figure>	<img src="images/jimmy.jpg" class="imgid" alt="jimmy">  </figure>
 
 	<h2>Education</h2>
 
@@ -50,11 +64,13 @@
 
 </aside>
 		<footer>
-		<hr>
+		
 		<strong> Team Idiotville
 		<br>
 			CSC 174: Advanced Web Design </strong>
 	</footer>
 	</body>
+   
+	</div><!--.container-->
 	
 </html>

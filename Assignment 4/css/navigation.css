@@ -1,3 +1,29 @@
-a {
-	margin: 20px;
+nav ul {
+	list-style-type: none;
+	margin-left: 0;
+	padding: 0px;
+	margin: 0 auto;
+
 }
+
+nav li {
+	padding-top: 10px;
+	display: table-cell;
+	width: 23%;
+	border-bottom: 2px solid #345193;
+}
+
+nav a {
+	display: block;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.menu {
+	width: 100%;
+}
+
+.menu a { color: #345193; }
+
+.menu a:hover { color: #E79C47; }
+

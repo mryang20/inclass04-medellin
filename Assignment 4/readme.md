@@ -37,3 +37,17 @@ Also be specific about the layout of the HTML form
 >>> Suggestions to Coder:
 
 -When the user submits the form, the page should refresh with all previous entries cleared.
+
+
+
+DESIGN ARTIST: 
+
+First, I'd like to explain the logo: since our city name was "Idiotville," I purposefully decided to make the logo sloppy. I repeat, that was an intentional choice (especially on the 4th, contrasting page).
+
+For color choice, I focused on contrast between the Computer Science majors and Econ major on our site. To me, computer science evokes cool colors and modern layouts. With this in mind, I chose a cool slate grey for the background, and decided to make the titles and headings a navy, which to me gave a simple, somewhat math-class feel to the page. For contrast on the Econ major's page, I simply chose the complement of the blue which I used throughout the site.
+
+The principles I applied to the site are
+
+For font choices, I took our IA's suggestions, as I felt that they fit well with the rest of the site. The headings (done in Copse) have an almost whimsical feel that fits with the rest of the site, and despite the serifs, are easily readable and don't seem too old-fashioned. Similarly, the body text (AnticSlab) is also an easily-readable serif font, but the weight and style still give it a clean feeling not out of place on a "tech/math/consulting" website like the one we made.
+
+The entire site is laid out using CSS Grid. I added a margin to each edge of the pages with grid, and most of the pages have an article and an aside in separate columns. Each set of content (title, nav, body, footer) is also contained in its own row within the Grid.

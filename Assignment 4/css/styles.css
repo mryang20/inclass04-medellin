@@ -1,32 +1,87 @@
-/*
-body {
-	background-color: #DACFD0;
-	font-family: 'Antic Slab', serif;
+.container {
 	display: grid;
 	grid-template-columns: [left-margin] 7% [content-left] 53% [content-right] 33% [right-margin] 7%;
 	grid-template-rows: [title-row] 20% [nav-row] 20% [content-row] 50% [footer-row] 10%;
+	background-color: #e8e7e5;
+	padding-top: 0;
 }
 
-body h1, h2, h3 {
-	font-family: 'Coptic', serif;
+figure img {
+	max-width: 100%;
 }
 
-header {
-	grid-column: content-left/content-right;
+body { margin: 0 auto; }
+
+header, .containerHome header {
+	grid-column: content-left/right-margin;
 	grid-row: title-row;
 }
 
-nav {
-	grid-column: content-left;
+header a { text-decoration: none; }
+
+header h1 { margin-left: 0; }
+
+nav, .containerHome nav {
+	grid-column: content-left/right-margin;
 	grid-row: nav-row;
 }
 
- article {
+article {
 	grid-column: content-left/content-right;
+	grid-row: content-row;
+	padding-right: 25px;
+}
+
+aside {
+	grid-column: content-right/right-margin;
+	grid-row: content-row;
+	margin-left: 20px;
+}
+
+footer {
+	grid-column: content-left/right-margin;
+	grid-row: footer-row;
+	margin-top: 22px;
+	border-top: 3px solid #345193;
+	padding-top: 10px;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+h1, h2, h3, strong { font-family: 'Copse', serif; }
+
+h1 { margin-bottom: 0; }
+
+h1, h2, h3, strong { color: #345193; }
+
+p { font-family: 'Antic Slab', serif; }
+
+/*
+ * Homepage CSS
+ */
+
+.containerHome {
+	display: grid;
+	grid-template-columns: [left-margin] 7% [content-left] 53% [content-right] 33% [right-margin] 7%;
+	grid-template-rows: [title-row] 20% [nav-row] 20% [content-row] 50% [footer-row] 10%;
+	background-color: #e8e7e5;
+
+}
+.containerHome article {
+	grid-column: content-left/right-margin;
 	grid-row: content-row;
 }
 
-.logo {
-	background-color: #DACFD0;
-}
-*/
+/*
+ * Jimmy's CSS
+ */
+
+#orange { grid-column: content-left/right-margin; }
+
+#orange aside { grid-column: content-right/right-margin; }
+
+#orange h1, #orange h2, #orange h3 {
+ 	color: #f79200;
+ }
+
+

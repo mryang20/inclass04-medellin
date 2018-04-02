@@ -17,12 +17,22 @@
 
 	</head>
 
-			<?php include "includes/navigation.php" ?>
-		<hr>
+		<div class="containerHome"> <!-- in order to use different grid values for the homepage -->
+			<header>
+<div class="logo"> <figure><a href="index.html"><img src="images/idiotville_banner.png" alt ="Logo"> 
+<br><h1>Idiotville   </h1> </a> </figure>
+	<strong>CSC 174 - Advanced Front End Web Design </strong></div>
+
+</header>
+
+
+<?php include "includes/navigation.inc" ?>
+
+		
 
 	
 	<body>
-		<!--<div class="container">-->
+		
 	<article>
 
 		<!-- Add slideshow, gallery, or anything esle here -->
@@ -31,6 +41,7 @@
 
 			<section><p>This is the Assignment 4 Website of Idiotville. The website features profiles of Computer Scientists Xiao Cheng, Charlie Lu, Xuanyang Wang and Economist Jimmy Yang. You can book their services for Web Design, Coding, Econometric Anlysis and Graphic Design through the Idiotville Website by filling out the form below and Team Idiotville will get in contact with you within twelve hours. </p>
 			</section>
+			
 			
 <div class="Form">  
   <form id="contact" action="" method="post">
@@ -63,17 +74,18 @@
 
 		</article>
 
-	<!--</div>.container-->
+
 		
 <!-- Add form Here -->
 
 		<footer>
-<hr>
+
 		<strong>Team Idiotville
 		<br>
 		CSC 174: Advanced Web Design </strong>
 	</footer>
 	</body>
 
+	</div><!--.containerHome-->
 	
 </html>
